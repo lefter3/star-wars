@@ -5,7 +5,6 @@ A rest application with simple react client and an extension of the star wars ap
 ## Running the app
 
 ```bash
-# development
 $ npm run start-all
 ```
 
